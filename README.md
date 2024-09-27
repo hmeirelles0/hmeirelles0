@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hmeirelles0?tab=repositories](https://github.com/hmeirelles0?tab=repositories)
 
-- 📫 How to reach me **henrique-ferraz1@outlook.com**
+- 📫 How to reach me: **henrique-ferraz1@outlook.com**
 
-- ⚡ Fun fact **Currently undergoing a career transition from Biomedical Sciences**
+- ⚡ Fun fact: **Currently undergoing a career transition from Biomedical Sciences**
 
 ### Languages and Tools:
 
@@ -17,6 +17,15 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
