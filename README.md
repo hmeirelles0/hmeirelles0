@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Henrique</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **an e-commerce landing page**
+- 🔭 I’m currently working on **a hangman game page**
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript (react.JS and react native))**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript (react.JS and react native), PHP, C#, Java/Android and SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hmeirelles0?tab=repositories](https://github.com/hmeirelles0?tab=repositories)
 
-- 📫 How to reach me **hmeirelles0@gmail.com**
+- 📫 How to reach me **henrique-ferraz1@outlook.com**
 
 - ⚡ Fun fact **Currently undergoing a career transition from Biomedical Sciences**
 
