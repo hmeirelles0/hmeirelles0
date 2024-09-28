@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Henrique</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Olá 👋, eu sou Henrique</h1>
+<h3 align="center">Um desenvolver do Brasil</h3>
 
-- 🔭 I’m currently working on **a hangman game page**
+- 🔭 Estou atualmente trabalhando em um projeto de ** Jogo da Forca com JQuery!**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript (react.JS and react native), PHP, C#, Java/Android and SQL**
+- 🌱 Estou atualmente aprendendo **JavaScript (react.JS, React Native e JQuery), PHP, C#, Java/Android e SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hmeirelles0?tab=repositories](https://github.com/hmeirelles0?tab=repositories)
+- 👨‍💻 Todos os meus projetos disponíveis em [https://github.com/hmeirelles0?tab=repositories](https://github.com/hmeirelles0?tab=repositories)
 
-- 📫 How to reach me: **henrique-ferraz1@outlook.com**
+- 📫 Como entrar em contato comigo: **henrique-ferraz1@outlook.com**
 
-- ⚡ Fun fact: **Currently undergoing a career transition from Biomedical Sciences**
+- ⚡ Fato curioso: **No momento, em transição de carreira, até então biomédico**
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
