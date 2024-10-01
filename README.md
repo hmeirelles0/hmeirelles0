@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Henrique</h1>
 <h3 align="center">Um desenvolver do Brasil</h3>
 
-- 🔭 Estou atualmente trabalhando em um projeto de ** Jogo da Forca com JQuery!**
+- 🔭 Estou atualmente trabalhando em um projeto de **Jogo da Forca com JQuery!**
 
 - 🌱 Estou atualmente aprendendo **JavaScript (react.JS, React Native e JQuery), PHP, C#, Java/Android e SQL**
 
