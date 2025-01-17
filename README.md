@@ -6,8 +6,6 @@
 
  🌱 Estou atualmente aprendendo **JavaScript (react.JS, React Native e JQuery), PHP, C#, Java/Android e SQL**
 
- 👨‍💻 Todos os meus projetos disponíveis em [https://github.com/hmeirelles0?tab=repositories](https://github.com/hmeirelles0?tab=repositories)
-
  📫 Como entrar em contato comigo: **henrique-ferraz1@outlook.com**
 
  ⚡ Fato curioso: **No momento, em transição de carreira, até então biomédico**
